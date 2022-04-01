@@ -33,7 +33,7 @@
 html {
 	background-color: var(--bg);
 	color: var(--fg);
-	font: 1em Georgia, serif;
+	font: 1em Arial, sans-serif;;
 }
 body {
 	width: 1200px;
